@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Passky](https://github.com/Rabbit-Company)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Passky](https://github.com/Rabbit-Company).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/passky](https://draculatheme.com/passky).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Rabbit Company](https://github.com/Rabbit-Company.png?size=100)](https://github.com/Rabbit-Company) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Rabbit Company](https://github.com/Rabbit-Company) |
 
 ## License
 
