@@ -1,6 +1,6 @@
-# Dracula for [Passky](https://github.com/Rabbit-Company)
+# Dracula for [Passky](https://passky.org)
 
-> A dark theme for [Passky](https://github.com/Rabbit-Company).
+> A dark theme for [Passky](https://passky.org).
 
 ![Screenshot](./screenshot.png)
 
