@@ -1,4 +1,4 @@
-### [Passky](https://github.com/Rabbit-Company)
+### [Passky](https://passky.org)
 
 #### Install
 
